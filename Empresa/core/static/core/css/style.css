@@ -1,0 +1,40 @@
+.navbar {
+    background: linear-gradient(to bottom, #ffffff, #d3d3d3);   
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.7);   
+    padding: 10px 20px;
+} 
+body {
+    background-image: url('https://geekytheory.com/content/images/2015/10/programming-language-min.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-attachment: fixed; 
+    background-repeat: no-repeat; 
+}
+
+  .social-icon i {
+    font-size: 24px; 
+  }
+  .social-icon.instagram i {
+    color: #E4405F; 
+  }
+  .social-icon.facebook i {
+    color: #1877F2; 
+  }
+  .social-icon.tiktok i {
+    color: #000000; 
+  }
+  .social-icon.youtube i {
+    color: #FF0000; 
+  }
+  .social-icon.twitter i {
+    color: #1DA1F2; 
+  }
+
+  .inacap-logo {
+    height: 50px; 
+  }
+  .page-footer {
+    background: linear-gradient(to bottom, #ffffff, #d6d6d6);
+    box-shadow: 0 0px 10px rgba(0, 0, 0, 0.7);
+    padding: 10px 20px;   
+}
