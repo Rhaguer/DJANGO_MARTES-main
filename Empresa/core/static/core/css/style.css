@@ -3,11 +3,11 @@
   box-shadow: 0 2px 4px rgb(0, 0, 0);   
   padding: 10px 20px;
 } 
-h1 {
+.h1 {
   color: white;
 }
 
-body {
+.body {
   background-image: url('https://images7.alphacoders.com/573/thumb-1920-573980.jpg');
   background-size: cover;
   background-position: center;
